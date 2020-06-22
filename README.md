@@ -1,7 +1,7 @@
 ﻿---
 title: "Excel - VBA - Call a web service"
 subtitle: "How to"
-date: "22 juin 2020, 23:20"
+date: "22 juin 2020, 23:26"
 keywords: []
 language: "en"
 ---
@@ -10,7 +10,7 @@ language: "en"
 <!-- Don't modify this file manually (you'll loose your changes) -->
 <!-- but run the tool once more -->
 
-<!-- Last refresh date: 2020-06-22 23:20:27 -->
+<!-- Last refresh date: 2020-06-22 23:26:11 -->
 
 <!-- below, content of ./index.md -->
 
@@ -36,9 +36,9 @@ language: "en"
 
     ![Insert a new module](./images/insert_module.png)
 
-4. Copy/paste there the VBA code you can find below or in the `files/modWebService.bas` file.
+4. Copy/paste there the VBA code you can find below or in the [files/modWebService.bas](https://raw.githubusercontent.com/cavo789/vba_excel_call_webservice/master/files/modWebService.bas) file.
 5. Take a look to the declaration of the `InputXmlFile` constant: update the path to any valid path on your system and create that file.
-6. Open that file and copy/paste there the content of the `files/checkVat.xml`
+6. Open that file and copy/paste there the content of the [files/checkVat.xml](https://raw.githubusercontent.com/cavo789/vba_excel_call_webservice/master/files/checkVat.xml)
 
 ## How to call
 
