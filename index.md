@@ -21,9 +21,9 @@ language: "en"
 
     ![Insert a new module](./images/insert_module.png)
 
-4. Copy/paste there the VBA code you can find below or in the `[files/modWebService.bas](https://raw.githubusercontent.com/cavo789/vba_excel_call_webservice/master/files/modWebService.bas)` file.
+4. Copy/paste there the VBA code you can find below or in the [files/modWebService.bas](https://raw.githubusercontent.com/cavo789/vba_excel_call_webservice/master/files/modWebService.bas) file.
 5. Take a look to the declaration of the `InputXmlFile` constant: update the path to any valid path on your system and create that file.
-6. Open that file and copy/paste there the content of the `[files/checkVat.xml](https://raw.githubusercontent.com/cavo789/vba_excel_call_webservice/master/files/checkVat.xml)`
+6. Open that file and copy/paste there the content of the [files/checkVat.xml](https://raw.githubusercontent.com/cavo789/vba_excel_call_webservice/master/files/checkVat.xml)
 
 ## How to call
 
