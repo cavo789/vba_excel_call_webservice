@@ -18,6 +18,8 @@ language: "en"
 
 # Excel - VBA - Call a web service
 
+![Banner](./banner.svg)
+
 > How to call a web service in Excel VBA. The example is built using the European Union's VIES CheckVAT web service.
 
 <!-- table-of-contents - start -->
